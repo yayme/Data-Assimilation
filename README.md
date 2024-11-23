@@ -15,24 +15,6 @@ Particle Filtering approximates the state distribution using a set of particles.
 
 ### Generalized Alpha-Beta Filtering
 The Alpha-Beta filter is a simple, recursive estimator for linear systems that tracks position and velocity. It is used in radar and navigation for target tracking and prediction.
-
-## Visualizations and Animations
-
-### Lorentz Motion Prediction vs Actual
-This animation compares the true states of the Lorentz system with the predicted states from Kalman Filtering.
-
-![Lorentz Motion Animation](lorenz_animation.mp4)
-
-### Kalman Filter Tracking of a Moving Target
-This animation demonstrates how the Kalman Filter tracks a moving target over time, showing the predicted vs actual trajectory.
-
-![Kalman Filter Animation](images/kalman_filter_tracking_animation.gif)
-
-### Particle Filter Tracking
-This animation illustrates the use of Particle Filtering to track an object in a noisy environment.
-
-![Particle Filter Animation](images/particle_filter_tracking_animation.gif)
-
 ## Use Cases
 
 - **Kalman Filter**: Ideal for applications in navigation and control, such as GPS or IMU-based positioning.
