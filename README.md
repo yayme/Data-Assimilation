@@ -21,7 +21,7 @@ The Alpha-Beta filter is a simple, recursive estimator for linear systems that t
 ### Lorentz Motion Prediction vs Actual
 This animation compares the true states of the Lorentz system with the predicted states from Kalman Filtering.
 
-![Lorentz Motion Animation](lorentzmotion_truevspredicted_animation.png)
+![Lorentz Motion Animation](lorenz_animation.mp4)
 
 ### Kalman Filter Tracking of a Moving Target
 This animation demonstrates how the Kalman Filter tracks a moving target over time, showing the predicted vs actual trajectory.
